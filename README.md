@@ -17,4 +17,4 @@ A curated list of Swisscom CSIRT analysis tools and resources.
 * [FIRST](https://www.first.org/members/teams/swisscom_csirt) - FIRST team page.
 
 ## Vulnerability Management
-* [Bug Bounty](https://www.swisscom.ch/de/about/sicherheit/bug-bounty.html) - Our Bug Bounty programme supports the reporting and quick elimination of security gaps (bugs) in our products and services. We invite both private individuals and organisations to report weak points to our Computer Security Incident Response Team (CSIRT).
+* [Bug Bounty](https://www.swisscom.ch/en/about/security/bug-bounty.html) - Our Bug Bounty programme supports the reporting and quick elimination of security gaps (bugs) in our products and services. We invite both private individuals and organisations to report weak points to our Computer Security Incident Response Team (CSIRT).
