@@ -1,5 +1,5 @@
 # Swisscom CSIRT Resources
-A curated list of Swisscom CSIRT analysis tools and resources.
+A curated list of analysis tools and resources created or maintained by Swisscom CSIRT.
 
 ## Incident Response Tools
 * [PowerGRR](https://github.com/swisscom/PowerGRR) - PowerGRR is an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
