@@ -5,6 +5,9 @@ A curated list of analysis tools and resources created or maintained by Swisscom
 * [PowerGRR](https://github.com/swisscom/PowerGRR) - PowerGRR is an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during incident response.
 * [ArtifactCollectionMatrix](https://github.com/swisscom/ArtifactCollectionMatrix) - Forensic Artifact Collection Tool Matrix.	
+* [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) - Invoke-Forensics provides PowerShell scripts to simplify working with [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)'s
+[targets and modules (KapeFiles)](https://github.com/EricZimmerman/KapeFiles) and [RegRipper](https://github.com/keydet89/RegRipper3.0)'s
+[plugins](https://github.com/keydet89/RegRipper3.0/tree/master/plugins).
   
 ## Detection Resources
 * [detections](https://github.com/swisscom/detections) - This repo contains threat intelligence information and threat detection indicators (IOC, IOA) shared by Swisscom CSIRT.
