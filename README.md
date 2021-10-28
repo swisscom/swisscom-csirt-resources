@@ -5,11 +5,10 @@ Besides the tool mentioned below, our team contributes to various tools, among o
 
 ## Internet articles
 Here's a list of internet articles from various activities around the Swisscom CSIRT.
-* [Paying a visit to the IT fire brigade](https://www.swisscom.ch/en/business/enterprise/themen/security/soc-csirt-arbeitstag.html)
-* [Mr Red v. Mr Blue – a stress test for Swisscom](https://www.swisscom.ch/en/business/enterprise/themen/security/cyber-security-defense-csirt.html)
-* [Die guten Hacker [DE]](https://www.swisscom.ch/de/magazin/datensicherheit-infrastruktur/die-guten-hacker/)
-* [On the hunt for hidden attackers](https://www.swisscom.ch/en/business/enterprise/themen/security/threat-hunting.html)
-
+* [Die guten Hacker [DE], 31 August 2016](https://www.swisscom.ch/de/magazin/datensicherheit-infrastruktur/die-guten-hacker/)
+* [Mr Red v. Mr Blue – a stress test for Swisscom, 8 November 2018](https://www.swisscom.ch/en/business/enterprise/themen/security/cyber-security-defense-csirt.html)
+* [Paying a visit to the IT fire brigade, 15 May 2020](https://www.swisscom.ch/en/business/enterprise/themen/security/soc-csirt-arbeitstag.html)
+* [On the hunt for hidden attackers, 18 September 2020](https://www.swisscom.ch/en/business/enterprise/themen/security/threat-hunting.html)
 
 ## Incident Response Tools
 * [PowerGRR](https://github.com/swisscom/PowerGRR) - PowerGRR is an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
