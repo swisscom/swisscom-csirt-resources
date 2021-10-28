@@ -3,6 +3,14 @@ A curated list of analysis tools and resources created or maintained by Swisscom
 
 Besides the tool mentioned below, our team contributes to various tools, among others to [Sigma](https://github.com/SigmaHQ/sigma), [KapeFiles](https://github.com/EricZimmerman/KapeFiles), [forensic artifacts](https://github.com/forensicartifacts/artifacts), [RECmd](https://github.com/EricZimmerman/RECmd) and [RegRipper](https://github.com/keydet89/RegRipper3.0).
 
+## Internet articles
+Here's a list of internet articles from various activities around the Swisscom CSIRT.
+* [Paying a visit to the IT fire brigade](https://www.swisscom.ch/en/business/enterprise/themen/security/soc-csirt-arbeitstag.html)
+* [Mr Red v. Mr Blue – a stress test for Swisscom](https://www.swisscom.ch/en/business/enterprise/themen/security/cyber-security-defense-csirt.html)
+* [Die guten Hacker [DE]](https://www.swisscom.ch/de/magazin/datensicherheit-infrastruktur/die-guten-hacker/)
+* [On the hunt for hidden attackers](https://www.swisscom.ch/en/business/enterprise/themen/security/threat-hunting.html)
+
+
 ## Incident Response Tools
 * [PowerGRR](https://github.com/swisscom/PowerGRR) - PowerGRR is an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during incident response.
